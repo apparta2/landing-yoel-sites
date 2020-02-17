@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "mon-site-pas-cher",
-    "currentPage": "index.html",
+    "currentPage": "policy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -58,7 +58,7 @@
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": true,
-    "siteUrl": "https://avec-braha.com",
+    "siteUrl": "https://apparta2.github.io/landing-yoel-sites/",
     "cookiesAlert": {
       "customDialogSelector": true,
       "colorText": "#424a4d",
@@ -77,7 +77,7 @@
       "underlineLink": false,
       "text": "En continuant, vous acceptez nos <a href='terms.html'> Conditions d'utilisation </a> et la <a href='policy.html'> Politique de confidentialité </a>."
     },
-    "uniqCompNum": 25,
+    "uniqCompNum": 39,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
@@ -89,12 +89,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Avec-Braha Traiteur pour tous vos évenements religieux  familiaux",
-        "meta_descr": "25 ans d'expérience au services des palais les plus exigeants.\n\nCacher Bassari 100% lameadrine\nSaveur\nFraicheur\nSavoir Faire\n",
+        "title": "Mon site. Sans me ruiner.  & Sans Compromis ",
+        "meta_descr": "25 ans d'expérience au services des palais les plus exigeants\nMon site. Sans me ruiner.  & Sans Compromis \na partir de 150 €.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/restaurant%20logo-124x124.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/1-1-120x100.png"
       },
       "components": [
         {
@@ -1456,7 +1456,7 @@
       "settings": {
         "meta_descr": "privacy",
         "title": "privacy",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1914,7 +1914,7 @@
       "settings": {
         "meta_descr": "policy",
         "title": "policy",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
